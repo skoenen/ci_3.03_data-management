@@ -2,7 +2,8 @@
 
 ## First example
 
-File document [book.xml](http://www.w3schools.com/xml/book.xml)
+File document [book.xml](http://www.w3schools.com/xml/books.xml)
+Online: [xpather](http://xpather.com/DsRJjtbg)
 
 ### Questions
 
@@ -57,6 +58,7 @@ File document [book.xml](http://www.w3schools.com/xml/book.xml)
 ## Second Example
 
 File: [plant_catalog.xml](http://www.w3schools.com/xml/plant_catalog.xml)
+Online: [xpather](http://xpather.com/cjMhNPFX)
 
 ### Questions
 
