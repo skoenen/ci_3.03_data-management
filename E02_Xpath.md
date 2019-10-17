@@ -1,8 +1,8 @@
 # Excercise 02: XPath
 
-Example document [http://www.w3schools.com/xml/book.xml](book.xml)
 
 ## Questions
+File document [book.xml](http://www.w3schools.com/xml/book.xml)
 
 - What are the titles of every book in the bookstore?
   - `/bookstore/book/title`
