@@ -66,4 +66,4 @@ File: [plant_catalog.xml](http://www.w3schools.com/xml/plant_catalog.xml)
 
 ## Excercise at home
 
-- How many _different_ are at the bookstore?
+- How many _different_ categories are at the bookstore?
