@@ -1,8 +1,10 @@
 # Excercise 02: XPath
 
+## First example
 
-## Questions
 File document [book.xml](http://www.w3schools.com/xml/book.xml)
+
+### Questions
 
 - What are the titles of every book in the bookstore?
   - `/bookstore/book/title`
@@ -49,3 +51,19 @@ File document [book.xml](http://www.w3schools.com/xml/book.xml)
   - `//book[@cover='paperback']/@*` -> Returns attributes of the `<book>`
     element where one attribute is `cover="paperback"`
 
+- How many boosk have a _paperback_?
+  - `count(//book[@cover='paperback'])`
+
+## Second Example
+
+File: [plant_catalog.xml](http://www.w3schools.com/xml/plant_catalog.xml)
+
+### Questions
+
+- What is the total amount/sum of prices in the bookstore?
+  - `sum(number(substring(//price, 1, 20)))`
+  - `sum(number(substring(//price, 1, string-length(//price))))`
+
+## Excercise at home
+
+- How many _different_ are at the bookstore?
