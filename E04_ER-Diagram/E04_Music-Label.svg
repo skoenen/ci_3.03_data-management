@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="53.678cm" height="30.171cm" viewBox="-3.221 -12.344 50.457 17.827"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="21.000" y="9.000" width="2.620" height="1.635" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="21.000" y="9.000" width="2.620" height="1.635" fill="none" stroke="#000000" stroke-width="0.150" />
+<rect x="21.250" y="9.250" width="2.120" height="1.135" fill="none" stroke="#000000" stroke-width="0.150" />
+<text x="22.310" y="9.972"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Song</text>
+<rect x="39.000" y="-3.000" width="3.535" height="1.635" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="39.000" y="-3.000" width="3.535" height="1.635" fill="none" stroke="#000000" stroke-width="0.150" />
+<rect x="39.250" y="-2.750" width="3.035" height="1.135" fill="none" stroke="#000000" stroke-width="0.150" />
+<text x="40.767" y="-2.028"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Release</text>
+<rect x="28.000" y="-3.000" width="2.010" height="1.635" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="28.000" y="-3.000" width="2.010" height="1.635" fill="none" stroke="#000000" stroke-width="0.150" />
+<rect x="28.250" y="-2.750" width="1.510" height="1.135" fill="none" stroke="#000000" stroke-width="0.150" />
+<text x="29.005" y="-2.028"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+CD</text>
+<rect x="21.000" y="5.000" width="2.925" height="1.635" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="21.000" y="5.000" width="2.925" height="1.635" fill="none" stroke="#000000" stroke-width="0.150" />
+<rect x="21.250" y="5.250" width="2.425" height="1.135" fill="none" stroke="#000000" stroke-width="0.150" />
+<text x="22.462" y="5.972"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Track</text>
+<rect x="8.000" y="5.000" width="3.230" height="1.635" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="8.000" y="5.000" width="3.230" height="1.635" fill="none" stroke="#000000" stroke-width="0.150" />
+<text x="9.615" y="5.972"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Artist</text>
+<rect x="35.000" y="9.000" width="3.840" height="1.635" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="35.000" y="9.000" width="3.840" height="1.635" fill="none" stroke="#0000FF" stroke-width="0.150" />
+<text x="36.920" y="9.972"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Composer</text>
+<polygon fill="#FF00FF" stroke="none" stroke-width="0.150" points="13.642,5.817 15.709,4.577 17.777,5.817 15.709,7.058 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.150"  points="13.642,5.817 15.709,4.577 17.777,5.817 15.709,7.058 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.150"  points="14.042,5.817 15.709,4.817 17.377,5.817 15.709,6.818 "/>
+<text x="13.342" y="5.517"  fill="#000000" text-anchor="end" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+m</text>
+<text x="18.077" y="5.517"  fill="#000000" text-anchor="start" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+n</text>
+<text x="15.709" y="5.971"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+records</text>
+<polygon fill="#FF00FF" stroke="none" stroke-width="0.150" points="28.000,9.837 29.915,8.688 31.830,9.837 29.915,10.986 "/>
+<polygon fill="none" stroke="#0000FF" stroke-width="0.150"  points="28.000,9.837 29.915,8.688 31.830,9.837 29.915,10.986 "/>
+<polygon fill="none" stroke="#0000FF" stroke-width="0.150"  points="28.400,9.837 29.915,8.928 31.430,9.837 29.915,10.746 "/>
+<text x="27.700" y="9.537"  fill="#000000" text-anchor="end" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+m</text>
+<text x="32.130" y="9.537"  fill="#000000" text-anchor="start" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+n</text>
+<text x="29.915" y="9.991"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+writes</text>
+<polygon fill="#FF00FF" stroke="none" stroke-width="0.150" points="13.905,9.830 15.972,8.589 18.040,9.830 15.972,11.070 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.150"  points="13.905,9.830 15.972,8.589 18.040,9.830 15.972,11.070 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.150"  points="14.305,9.830 15.972,8.829 17.640,9.830 15.972,10.830 "/>
+<text x="13.605" y="9.530"  fill="#000000" text-anchor="end" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+m</text>
+<text x="18.340" y="9.530"  fill="#000000" text-anchor="start" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+n</text>
+<text x="15.972" y="9.984"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+compose</text>
+<polygon fill="#FF00FF" stroke="none" stroke-width="0.150" points="32.327,-2.180 34.395,-3.420 36.462,-2.180 34.395,-0.939 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.150"  points="32.327,-2.180 34.395,-3.420 36.462,-2.180 34.395,-0.939 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.150"  points="32.727,-2.180 34.395,-3.180 36.062,-2.180 34.395,-1.179 "/>
+<text x="32.027" y="-2.480"  fill="#000000" text-anchor="end" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+1</text>
+<text x="36.762" y="-2.480"  fill="#000000" text-anchor="start" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+m</text>
+<text x="34.395" y="-2.026"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+records</text>
+<polygon fill="#FF00FF" stroke="none" stroke-width="0.150" points="27.535,5.832 28.992,4.958 30.450,5.832 28.992,6.707 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.150"  points="27.535,5.832 28.992,4.958 30.450,5.832 28.992,6.707 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.150"  points="27.934,5.832 28.992,5.198 30.050,5.832 28.992,6.467 "/>
+<text x="27.235" y="5.532"  fill="#000000" text-anchor="end" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+m</text>
+<text x="30.750" y="5.532"  fill="#000000" text-anchor="start" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+1</text>
+<text x="28.992" y="5.986"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+has</text>
+<polygon fill="#FF00FF" stroke="none" stroke-width="0.150" points="13.076,-2.190 15.601,-3.705 18.126,-2.190 15.601,-0.675 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.150"  points="13.076,-2.190 15.601,-3.705 18.126,-2.190 15.601,-0.675 "/>
+<text x="12.776" y="-2.490"  fill="#000000" text-anchor="end" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+1</text>
+<text x="18.426" y="-2.490"  fill="#000000" text-anchor="start" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+m</text>
+<text x="15.601" y="-2.036"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+appears on</text>
+<path stroke="#FF00FF" fill="none" stroke-width="0.200"  d="M 9.615,5.000 C 9.314,2.973 8.786,-2.357 13.076,-2.190 "/>
+<line x1="18.126" y1="-2.190" x2="28.000" y2="-2.183" stroke="#FF00FF" stroke-width="0.200" stroke-dasharray="0.20,0.20"/>
+<line x1="17.777" y1="5.817" x2="21.000" y2="5.817" stroke="#FF00FF" stroke-width="0.200" stroke-dasharray="0.20,0.20"/>
+<line x1="11.230" y1="5.817" x2="13.642" y2="5.817" stroke="#FF00FF" stroke-width="0.200" />
+<line x1="18.040" y1="9.830" x2="21.000" y2="9.818" stroke="#FF00FF" stroke-width="0.200" stroke-dasharray="0.20,0.20"/>
+<path stroke="#FF00FF" fill="none" stroke-width="0.200"  d="M 9.615,6.635 C 9.618,8.517 10.571,10.441 13.905,9.830 "/>
+<line x1="23.925" y1="5.817" x2="27.535" y2="5.832" stroke="#FF00FF" stroke-width="0.200" stroke-dasharray="0.20,0.20"/>
+<line x1="30.010" y1="-2.183" x2="32.327" y2="-2.180" stroke="#FF00FF" stroke-width="0.200" />
+<line x1="36.462" y1="-2.180" x2="39.000" y2="-2.183" stroke="#FF00FF" stroke-width="0.200" stroke-dasharray="0.20,0.20"/>
+<line x1="23.620" y1="9.818" x2="28.000" y2="9.837" stroke="#0000FF" stroke-width="0.150" />
+<line x1="31.830" y1="9.837" x2="35.000" y2="9.818" stroke="#0000FF" stroke-width="0.150" />
+<ellipse cx="3.388" cy="5.724" rx="1.610" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="3.388" cy="5.724" rx="1.610" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="3.388" y="5.878"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Name</text>
+<line x1="2.778" y1="6.124" x2="3.998" y2="6.124" stroke="#000000" stroke-width="0.150" />
+<ellipse cx="16.677" cy="13.817" rx="2.677" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="16.677" cy="13.817" rx="2.677" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="16.677" y="13.972"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Song Number</text>
+<line x1="15.000" y1="14.217" x2="18.355" y2="14.217" stroke="#000000" stroke-width="0.150" stroke-dasharray="0.30,0.30"/>
+<ellipse cx="25.580" cy="2.261" rx="2.830" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="25.580" cy="2.261" rx="2.830" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="25.580" y="2.415"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Track Number</text>
+<line x1="23.750" y1="2.661" x2="27.410" y2="2.661" stroke="#000000" stroke-width="0.150" stroke-dasharray="0.30,0.30"/>
+<ellipse cx="45.039" cy="-5.633" rx="2.373" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="45.039" cy="-5.633" rx="2.373" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="45.039" y="-5.478"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+CD Number</text>
+<line x1="43.667" y1="-5.233" x2="46.412" y2="-5.233" stroke="#000000" stroke-width="0.150" stroke-dasharray="0.30,0.30"/>
+<ellipse cx="34.190" cy="-6.189" rx="3.440" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="34.190" cy="-6.189" rx="3.440" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="34.190" y="-6.035"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Catalogue Number</text>
+<line x1="31.750" y1="-5.789" x2="36.630" y2="-5.789" stroke="#000000" stroke-width="0.150" stroke-dasharray="0.30,0.30"/>
+<ellipse cx="25.762" cy="13.817" rx="1.762" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="25.762" cy="13.817" rx="1.762" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="25.762" y="13.972"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Title</text>
+<ellipse cx="27.440" cy="16.817" rx="3.440" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="27.440" cy="16.817" rx="3.440" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="27.440" y="16.972"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Composition Date</text>
+<ellipse cx="-0.172" cy="8.309" rx="2.677" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="-0.172" cy="8.309" rx="2.677" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="-0.172" y="8.463"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Family Name</text>
+<ellipse cx="-0.621" cy="3.890" rx="2.525" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="-0.621" cy="3.890" rx="2.525" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="-0.621" y="4.044"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Given Name</text>
+<ellipse cx="43.526" cy="9.809" rx="1.610" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="43.526" cy="9.809" rx="1.610" ry="0.817" fill="none" stroke="#0000FF"  stroke-width="0.150" /><text x="43.526" y="9.963"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Name</text>
+<line x1="42.916" y1="10.209" x2="44.136" y2="10.209" stroke="#000000" stroke-width="0.150" />
+<ellipse cx="47.705" cy="13.063" rx="2.677" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="47.705" cy="13.063" rx="2.677" ry="0.817" fill="none" stroke="#0000FF"  stroke-width="0.150" /><text x="47.705" y="13.217"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Family Name</text>
+<ellipse cx="47.782" cy="6.972" rx="2.525" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="47.782" cy="6.972" rx="2.525" ry="0.817" fill="none" stroke="#0000FF"  stroke-width="0.150" /><text x="47.782" y="7.126"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Given Name</text>
+<line x1="44.664" y1="9.231" x2="46.691" y2="7.762" stroke="#0000FF" stroke-width="0.150" />
+<line x1="44.460" y1="10.536" x2="46.668" y2="12.255" stroke="#0000FF" stroke-width="0.150" />
+<line x1="41.841" y1="9.811" x2="38.915" y2="9.815" stroke="#0000FF" stroke-width="0.150" />
+<path stroke="#000000" fill="none" stroke-width="0.150"  d="M 24.000,13.818 C 22.406,12.878 23.506,11.931 23.620,10.635 "/>
+<path stroke="#000000" fill="none" stroke-width="0.150"  d="M 22.310,10.635 C 22.359,14.081 20.113,16.643 24.000,16.817 "/>
+<path stroke="#000000" fill="none" stroke-width="0.150"  d="M 19.355,13.818 C 20.754,14.068 20.980,12.238 21.000,10.635 "/>
+<line x1="0.919" y1="7.517" x2="2.406" y2="6.437" stroke="#000000" stroke-width="0.150" />
+<line x1="0.906" y1="4.589" x2="2.125" y2="5.147" stroke="#000000" stroke-width="0.150" />
+<line x1="5.069" y1="5.749" x2="7.931" y2="5.792" stroke="#000000" stroke-width="0.150" />
+<ellipse cx="15.602" cy="2.132" rx="3.135" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="15.602" cy="2.132" rx="3.135" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="15.602" y="2.286"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Recording Date</text>
+<ellipse cx="46.429" cy="1.090" rx="3.288" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="46.429" cy="1.090" rx="3.288" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="46.429" y="1.244"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Number of Sales</text>
+<path stroke="#000000" fill="none" stroke-width="0.150"  d="M 21.000,5.000 C 21.015,3.392 21.136,2.267 18.737,2.132 "/>
+<path stroke="#000000" fill="none" stroke-width="0.150"  d="M 25.580,3.079 C 25.386,4.798 22.341,2.468 22.462,5.000 "/>
+<ellipse cx="22.628" cy="-7.957" rx="2.982" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="22.628" cy="-7.957" rx="2.982" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="22.628" y="-7.802"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Producer Name</text>
+<ellipse cx="23.947" cy="-4.686" rx="1.762" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="23.947" cy="-4.686" rx="1.762" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="23.947" y="-4.532"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Title</text>
+<ellipse cx="17.137" cy="-11.409" rx="2.677" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="17.137" cy="-11.409" rx="2.677" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="17.137" y="-11.255"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Family Name</text>
+<ellipse cx="24.051" cy="-11.451" rx="2.525" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="24.051" cy="-11.451" rx="2.525" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="24.051" y="-11.297"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Given Name</text>
+<line x1="23.694" y1="-10.574" x2="22.987" y2="-8.838" stroke="#000000" stroke-width="0.150" />
+<line x1="18.365" y1="-10.637" x2="21.373" y2="-8.746" stroke="#000000" stroke-width="0.150" />
+<path stroke="#000000" fill="none" stroke-width="0.150"  d="M 25.611,-7.957 C 29.087,-7.600 28.973,-5.867 29.005,-3.000 "/>
+<path stroke="#000000" fill="none" stroke-width="0.150"  d="M 30.750,-6.189 C 29.002,-6.208 29.825,-4.675 30.010,-3.000 "/>
+<path stroke="#000000" fill="none" stroke-width="0.150"  d="M 25.709,-4.686 C 27.070,-4.675 28.149,-4.817 28.000,-3.000 "/>
+<path stroke="#000000" fill="none" stroke-width="0.150"  d="M 40.767,-3.000 C 40.704,-4.873 42.036,-5.633 42.667,-5.633 "/>
+<ellipse cx="47.495" cy="-2.177" rx="2.830" ry="0.817" fill="#00FF00" stroke="none"  /><ellipse cx="47.495" cy="-2.177" rx="2.830" ry="0.817" fill="none" stroke="#000000"  stroke-width="0.150" /><text x="47.495" y="-2.023"  fill="#000000" text-anchor="middle" font-size="0.63" font-family="monospace" font-style="normal" font-weight="400">
+Release Date</text>
+<line x1="45.665" y1="-1.777" x2="49.325" y2="-1.777" stroke="#000000" stroke-width="0.150" stroke-dasharray="0.30,0.30"/>
+<line x1="42.535" y1="-2.183" x2="44.665" y2="-2.177" stroke="#000000" stroke-width="0.150" />
+<path stroke="#000000" fill="none" stroke-width="0.150"  d="M 40.767,-1.365 C 40.932,0.921 41.386,1.234 43.141,1.090 "/>
+<line x1="16.743" y1="6.437" x2="21.000" y2="9.000" stroke="#FF00FF" stroke-width="0.200" />
+<line x1="0.058" y1="17.450" x2="3.018" y2="17.438" stroke="#FF00FF" stroke-width="0.200" stroke-dasharray="0.20,0.20"/>
+<text x="3.719" y="17.676"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+This line denotes a Participation Constraint</text>
+<path stroke="#FF00FF" fill="none" stroke-width="0.200" stroke-dasharray="0.20,0.20" d="M 29.005,-1.365 C 28.748,2.678 30.556,1.995 32.203,2.638 C 33.850,3.281 34.573,6.173 30.450,5.832 "/>
+<text x="17.902" y="6.896"  fill="#000000" text-anchor="start" font-size="0.63" font-family="sans" font-style="normal" font-weight="400">
+p</text>
+</svg>
