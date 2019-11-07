@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if [ -z "$(ls /var/lib/postgres/data)" ]; then
+  initdb -D /var/lib/postgres/data
+else
+  echo "Database already initialized"
+fi
+

@@ -1,0 +1,104 @@
+---
+- hosts: all
+  tasks:
+    - name: install necessary packages
+      become: yes
+      pacman:
+        name: clang, base-devel, git
+
+    - name: install postgresql
+      become: yes
+      pacman:
+        name: postgresql, postgresql-libs, pgadmin4, python-psycopg2
+
+    - name: install nginx, php
+      become: yes
+      pacman:
+        name: nginx, uwsgi, uwsgi-plugin-python
+
+    - name: configure nginx
+      become: yes
+      copy:
+        src: /vagrant/vagrant/nginx/nginx.conf
+        dest: /etc/nginx/nginx.conf
+        owner: root
+        group: root
+        mode: '0660'
+
+    - name: setup pgadmin as service
+      become: yes
+      copy:
+        src: /vagrant/vagrant/systemd/pgadmin.service
+        dest: /usr/lib/systemd/system/pgadmin.service
+        owner: root
+        group: root
+        mode: '0664'
+
+    - name: setup database storage
+      become: yes
+      become_user: postgres
+      command: /vagrant/vagrant/postgres/initdb 
+
+    - name: configure pgadmin
+      become: yes
+      copy: 
+        src: /vagrant/vagrant/pgadmin/config_local.py
+        dest: /usr/lib/pgadmin4/web
+        owner: root
+        group: root
+        mode: '0664'
+
+    - name: update pgadmin config
+      become: yes
+      command: /vagrant/vagrant/pgadmin/update_config.sh
+
+    - name: copy server dump
+      become: yes
+      copy:
+        src: /vagrant/vagrant/pgadmin/pgadmin_server.json
+        dest: /var/lib/pgadmin/servers.json
+        owner: http
+        group: http
+        mode: '0660'
+
+    - name: make config accessible to http user
+      become: yes
+      file:
+        path: /var/lib/pgadmin
+        owner: http
+        group: http
+        mode: ug+rwx,o+rx
+        recurse: yes
+
+    - name: load default servers into pgadmin
+      become: yes
+      #become_user: http
+      command: python /usr/lib/pgadmin4/web/setup.py --load-servers /var/lib/pgadmin/servers.json --user 'db@hsrw.local'
+
+    - name: enable and start postgresql
+      become: yes
+      systemd:
+        name: postgresql
+        daemon_reload: yes
+        enabled: yes
+        state: started
+
+    - name: enable and start pgadmin
+      become: yes
+      systemd:
+        name: pgadmin
+        daemon_reload: yes
+        enabled: yes
+        state: started
+
+    - name: enable and start nginx
+      become: yes
+      systemd:
+        name: nginx
+        daemon_reload: yes
+        enabled: yes
+        state: started
+
+    - name: Preload database
+      include: databases.yml
+

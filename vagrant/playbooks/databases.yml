@@ -1,0 +1,17 @@
+- name: Create database excercises
+  postgresql_db:
+    name: excercises
+    encoding: UTF-8
+- name: Create excercise 01 schema
+  postgresql_schema:
+    name: e01
+    db: excercises
+- name: Create excercise 02 schema
+  postgresql_schema:
+    name: e02
+    db: excercises
+- name: Create excercise 03 schema
+  postgresql_schema:
+    name: e03
+    db: excercises
+

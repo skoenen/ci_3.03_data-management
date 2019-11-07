@@ -1,0 +1,25 @@
+[Unit]
+Description=pgAdmin
+After=syslog.target, postgresql.service
+
+[Service]
+User=http
+Group=http
+
+ExecStart=/usr/bin/uwsgi \
+    --socket /tmp/pgadmin.sock \
+    --processes 1 \
+    --threads 4 \
+    --chdir /usr/lib/pgadmin4/web/ \
+    --manage-script-name \
+    --plugin python \
+    --mount /pgadmin=pgAdmin4:app
+
+RuntimeDirectory=uwsgi
+Restart=always
+KillSignal=SIGQUIT
+Type=notify
+StandardError=syslog
+
+[Install]
+WantedBy=multi-user.target
