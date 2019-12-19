@@ -2,7 +2,8 @@
 
 An Inventory system has several catalogs that keep track of items.
 A catalog has several items and is managed by a catalog admin.
-It also responsible for a branch, that it is keeping track of items for.
+It also responsible for a branch (General section items in a catalog are used
+for), that it is keeping track of items for.
 A catalog can have several operators, that can hand out items or take items
 in.
 
@@ -27,4 +28,10 @@ Each shelf is identified by type and order number.
 A shelf has several rows and a row has several places to store items.
 A place is identified globally by branch, location, shelf, row and place number.
 A place also has a capacity in items and a maximum weight in kg.
+
+## Tasks:
+
+1. Draw the ER-Diagram
+2. Use ER-Diagram to write down the relational schema
+3. After 2. write down the `CREATE SQL` for the relational schema
 
